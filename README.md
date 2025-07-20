@@ -12,7 +12,7 @@ A Simon Game built using HTML, CSS, and jQuery. Press any key to start, memorize
 ✅ Visual and sound feedback for button clicks and game states
 
 
-🚀 Live Demo : 
+🚀 Live Demo : https://karunya36.github.io/Simon-Game
 
 
 🛠️ Tech Stack : 
